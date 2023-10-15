@@ -195,7 +195,7 @@ let API=
     {
         "Numero": 11,
         "Type": "Premiers secours",
-        "Question": "Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ?",
+        "Question": "(PLUS DEMANDÉ) Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ?",
         "Reponse": "La placer en position stable sur le côté ou position latérale de sécurité. Alerter les secours. Surveiller la respiration de la victime jusqu’à l’arrivée des secours."
     },
     {
@@ -220,7 +220,7 @@ let API=
         "Numero": 13,
         "Type": "Intérieure",
         "Question": "Activez le dégivrage de la lunette arrière et montez le voyant ou le repère correspondant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Commandes à droite du volant, boutons sous la tablette, 2ème icon avec les flèches qui vont dans un rectangle."
     },
     {
         "Numero": 13,
@@ -310,7 +310,7 @@ let API=
         "Numero": 18,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l’avant et à l'arrière.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tableau de bord sur la droite, icon double triangle rouge. Allumage de tous les clignotants : 6 en tout."
     },
     {
         "Numero": 18,
@@ -321,7 +321,7 @@ let API=
     {
         "Numero": 18,
         "Type": "Premiers secours",
-        "Question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS)?",
+        "Question": "(PLUS DEMANDÉ) Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS)?",
         "Reponse": "Si la victime ne répond pas, ne réagit pas et respire."
     },
     {
@@ -334,7 +334,7 @@ let API=
         "Numero": 19,
         "Type": "Intérieure",
         "Question": "Montrez la commande de réglage du volant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette sous le volant."
     },
     {
         "Numero": 19,
@@ -352,7 +352,7 @@ let API=
         "Numero": 20,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de route.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Commande sur la gauche : tourner deux fois vers l'avant puis tirer la manette vers soi. Les feux s'allument devant."
     },
     {
         "Numero": 20,
@@ -370,7 +370,7 @@ let API=
         "Numero": 21,
         "Type": "Intérieure",
         "Question": "Positionnez la commande pour diriger l’air vers le pare-brise.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tablette sur la droite. Bouton du bonhomme tout en haut à droite."
     },
     {
         "Numero": 21,
@@ -1058,7 +1058,7 @@ let API=
     {
         "Numero": 59,
         "Type": "Premiers secours",
-        "Question": "Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ?",
+        "Question": "(PLUS DEMANDÉ) Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ?",
         "Reponse": "La placer en position stable sur le côté ou position latérale de sécurité. Alerter les secours. Surveiller la respiration de la victime jusqu’à l’arrivée des secours."
     },
     {
@@ -1299,7 +1299,7 @@ let API=
         "Numero": 73,
         "Type": "Intérieure",
         "Question": "Activez le dégivrage de la lunette arrière et montez le voyant ou le repère correspondant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Commandes à droite du volant, boutons sous la tablette, 2ème icon avec les flèches qui vont dans un rectangle."
     },
     {
         "Numero": 73,
@@ -1353,7 +1353,7 @@ let API=
         "Numero": 76,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l’avant et à l'arrière.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tableau de bord sur la droite, icon double triangle rouge. Allumage de tous les clignotants : 6 en tout."
     },
     {
         "Numero": 76,
@@ -1364,7 +1364,7 @@ let API=
     {
         "Numero": 76,
         "Type": "Premiers secours",
-        "Question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS)?",
+        "Question": "(PLUS DEMANDÉ) Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS)?",
         "Reponse": "Si la victime ne répond pas, ne réagit pas et respire."
     },
     {
@@ -1395,7 +1395,7 @@ let API=
         "Numero": 78,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de route.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Commande sur la gauche : tourner deux fois vers l'avant puis tirer la manette vers soi. Les feux s'allument devant."
     },
     {
         "Numero": 78,
@@ -1413,7 +1413,7 @@ let API=
         "Numero": 79,
         "Type": "Intérieure",
         "Question": "Positionnez la commande pour diriger l’air vers le pare-brise.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tablette sur la droite. Bouton du bonhomme tout en haut à droite."
     },
     {
         "Numero": 79,
@@ -1742,7 +1742,7 @@ let API=
     {
         "Numero": 97,
         "Type": "Premiers secours",
-        "Question": "Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ?",
+        "Question": "(PLUS DEMANDÉ) Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ?",
         "Reponse": "La placer en position stable sur le côté ou position latérale de sécurité. Alerter les secours. Surveiller la respiration de la victime jusqu’à l’arrivée des secours."
     },
     {
