@@ -1,3 +1,5 @@
+import API from "../API";
+
 export let UserSelecOption=(Qu,In)=>
 {
     return{
@@ -19,6 +21,12 @@ export let Dec=()=>
 {
     return{
         type:"Dec"
+    }
+}
+export let Random=()=>
+{
+    return{
+        type:"Random"
     }
 }
 export let ShowResult=()=>

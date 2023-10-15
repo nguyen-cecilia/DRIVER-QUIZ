@@ -23,7 +23,13 @@ let Reduce = (State = {...Obj} , Action) => {
         return{
           ...State,
             UserArray:[...Arr]
-      }
+      };
+    case "Random":
+      const randomIndex = Math.floor(Math.random() * API.length);
+      return {
+        ...State,
+        Value: randomIndex,
+      };
     default:
       return State;
   }

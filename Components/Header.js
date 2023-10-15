@@ -9,15 +9,13 @@ const Header = () => {
   });
 
   return (
-    <div className="text-[#FFFEEC] flex justify-between w-[100%] bg-[#BDB4FF] p-2 rounded-md text-lg">
+    <div className="text-[#FFFEEC] flex justify-between w-[100%] bg-indigo-300 p-2 rounded-md text-lg">
         <div className="Right">
-            Question 
+            Question N°{`${API[Stats.Value].Numero}`}
         </div>
 
         <div className="Left">
-            <span>{+Stats.Value+1}</span>
-            <span>/</span>
-            <span>{API.length}</span>
+            {`${API[Stats.Value].Type}`}
         </div>
     </div>
   )
