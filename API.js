@@ -40,7 +40,7 @@ let API=
         "Numero": 3,
         "Type": "Premiers secours",
         "Question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
-        "Reponse": "Il se compose de deux codes distincts :\n- le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs\n- le signal de fin d’alerte, signal continu"
+        "Reponse": "Il se compose de deux codes distincts :<br />- le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs<br />- le signal de fin d’alerte, signal continu"
     },
     {
         "Numero": 3,
@@ -75,7 +75,7 @@ let API=
     {
         "Numero": 5,
         "Type": "Sécurité routière",
-        "Question": "Comment détecter leur usure en circulation ?",
+        "Question": "Comment détecter leur usure en circulation ? (essuie-glaces)",
         "Reponse": "En cas de pluie, lorsqu’ils laissent des traces sur le pare-brise."
     },
     {
@@ -111,7 +111,7 @@ let API=
     {
         "Numero": 7,
         "Type": "Sécurité routière",
-        "Question": "En cas de panne ou d’accident, quel autre accessoire de sécurité est obligatoire ?",
+        "Question": "En cas de panne ou d’accident, quel autre accessoire de sécurité est obligatoire ? (+ gilet de haute visibilité)",
         "Reponse": "Le triangle de pré-signalisation."
     },
     {
@@ -160,7 +160,7 @@ let API=
         "Numero": 9,
         "Type": "Intérieure",
         "Question": "Vérifiez la présence du certificat d’immatriculation du véhicule (ou carte grise).",
-        "Reponse": "Dans la pochette dans le boîte à gants."
+        "Reponse": "Dans la pochette dans la boîte à gants."
     },
     {
         "Numero": 10,
@@ -213,7 +213,7 @@ let API=
     {
         "Numero": 12,
         "Type": "Sécurité routière",
-        "Question": "Quel est le danger si l’on complète le niveau du liquide lorsque le moteur est chaud ?",
+        "Question": "Quel est le danger si l’on complète le niveau du liquide de refroidissement lorsque le moteur est chaud ?",
         "Reponse": "Un risque de brûlure."
     },
     {
@@ -256,7 +256,7 @@ let API=
         "Numero": 15,
         "Type": "Intérieure",
         "Question": "Montrez le voyant d’alerte signalant une pression insuffisante d’huile dans le moteur.",
-        "Reponse": "Mettre le contact et montrer le voyant correspondant sur le tableau de bord."
+        "Reponse": "Mettre le contact et montrer le voyant correspondant sur le tableau de bord, voyant rouge vers la droite."
     },
     {
         "Numero": 15,
@@ -279,7 +279,7 @@ let API=
     {
         "Numero": 16,
         "Type": "Sécurité routière",
-        "Question": "Dans quel cas les utilise-t-on ?",
+        "Question": "Dans quel cas les utilise-t-on ? (feux de brouillard arrière)",
         "Reponse": "Par temps de brouillard et neige."
     },
     {
@@ -298,7 +298,7 @@ let API=
         "Numero": 17,
         "Type": "Premiers secours",
         "Question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque?",
-        "Reponse": "- ALERTER : alerter immédiatement les secours ;\n- MASSER : pratiquer une réanimation cardio-pulmonaire ;\n- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
+        "Reponse": "- ALERTER : alerter immédiatement les secours ;<br />- MASSER : pratiquer une réanimation cardio-pulmonaire ;<br />- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
     },
     {
         "Numero": 17,
@@ -315,7 +315,7 @@ let API=
     {
         "Numero": 18,
         "Type": "Sécurité routière",
-        "Question": "Dans quel cas les utilise-t-on ?",
+        "Question": "Dans quel cas les utilise-t-on ? (feux de détresse)",
         "Reponse": "En cas de panne, d’accident ou de ralentissement important."
     },
     {
@@ -340,13 +340,13 @@ let API=
         "Numero": 19,
         "Type": "Sécurité routière",
         "Question": "Pourquoi est-il important de bien régler son volant ?",
-        "Reponse": "Citez deux exemples :\n- Confort de conduite\n- Accessibilité aux commandes\n- Visibilité du tableau de bord\n- Efficacité des airbags"
+        "Reponse": "Citez deux exemples :<br />- Confort de conduite<br />- Accessibilité aux commandes<br />- Visibilité du tableau de bord<br />- Efficacité des airbags"
     },
     {
         "Numero": 20,
         "Type": "Sécurité routière",
         "Question": "Citez un cas d’utilisation de l’appel lumineux.",
-        "Reponse": "- Avertir de son approche\n- En cas de danger\n- A la place de l'avertisseur sonore"
+        "Reponse": "- Avertir de son approche<br />- En cas de danger<br />- A la place de l'avertisseur sonore"
     },
     {
         "Numero": 20,
@@ -364,7 +364,7 @@ let API=
         "Numero": 21,
         "Type": "Sécurité routière",
         "Question": "La position auto (désembuage automatique) peut être utilisée si le véhicule en est équipé. Citez deux éléments complémentaires permettant un désembuage efficace.",
-        "Reponse": "- La commande de vitesse de ventilation ;\n- la commande d’air chaud ;\n- la climatisation."
+        "Reponse": "- La commande de vitesse de ventilation ;<br />- la commande d’air chaud ;<br />- la climatisation."
     },
     {
         "Numero": 21,
@@ -388,7 +388,7 @@ let API=
         "Numero": 22,
         "Type": "Extérieure",
         "Question": "Montrez où doit s’effectuer le contrôle du niveau d’huile moteur.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Ouvrir le capot. Montrer le petit bouchon orange devant le gros bouchon noir."
     },
     {
         "Numero": 22,
@@ -436,7 +436,7 @@ let API=
         "Numero": 25,
         "Type": "Intérieure",
         "Question": "De quelle couleur est le voyant qui indique une défaillance du système de freinage ?",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Rouge."
     },
     {
         "Numero": 25,
@@ -454,7 +454,7 @@ let API=
         "Numero": 26,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner de deux crans vers l'avant."
     },
     {
         "Numero": 26,
@@ -483,7 +483,7 @@ let API=
     {
         "Numero": 27,
         "Type": "Sécurité routière",
-        "Question": "Quelle est la conséquence d’une température trop élevée de ce liquide ?",
+        "Question": "Quelle est la conséquence d’une température trop élevée de ce liquide (de refroidissement) ?",
         "Reponse": "Une surchauffe ou une casse moteur."
     },
     {
@@ -502,13 +502,13 @@ let API=
         "Numero": 28,
         "Type": "Extérieure",
         "Question": "Vérifiez l'état et la propreté des dispositifs réfléchissants.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Sur les feux arrière, partie au milieu des feux."
     },
     {
         "Numero": 29,
         "Type": "Premiers secours",
         "Question": "Citez les trois manières d’évaluer l’état de conscience d’une victime.",
-        "Reponse": "- Lui poser des questions simples : “comment ça va?”, “vous m’entendez?” ;\n- Lui secouer doucement les épaules ;\n- Lui prendre la main en lui demandant d’exécuter un geste simple “serrez-moi la main”."
+        "Reponse": "- Lui poser des questions simples : “comment ça va?”, “vous m’entendez?” ;<br />- Lui secouer doucement les épaules ;<br />- Lui prendre la main en lui demandant d’exécuter un geste simple “serrez-moi la main”."
     },
     {
         "Numero": 29,
@@ -526,12 +526,12 @@ let API=
         "Numero": 30,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de position à l'avant et à l'arrière du véhicule.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner le bout d'un cran. A l'avant, les feux tout en haut légèrement allumés. A l'arrière, les deux cercles qui entourent les feux."
     },
     {
         "Numero": 30,
         "Type": "Sécurité routière",
-        "Question": "Par temps clair, à quelle distance doivent-ils être visibles ?",
+        "Question": "Par temps clair, à quelle distance doivent-ils être visibles (feux de position) ?",
         "Reponse": "À 150 mètres"
     },
     {
@@ -549,7 +549,7 @@ let API=
     {
         "Numero": 31,
         "Type": "Sécurité routière",
-        "Question": "Quand les utilise-t-on ?",
+        "Question": "Quand les utilise-t-on (feux de détresse) ?",
         "Reponse": "En cas de panne, d’accident ou de ralentissement important."
     },
     {
@@ -580,7 +580,7 @@ let API=
         "Numero": 33,
         "Type": "Intérieure",
         "Question": "Montrez la commande permettant d’actionner le régulateur de vitesse.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Sur le volant en bas à gauche. Marqué 'Set'."
     },
     {
         "Numero": 33,
@@ -688,7 +688,7 @@ let API=
         "Numero": 39,
         "Type": "Premiers secours",
         "Question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
-        "Reponse": "Il se compose de deux codes distincts :\n\n- Le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs ;\n- Le signal de fin d’alerte, signal continu."
+        "Reponse": "Il se compose de deux codes distincts :<br /><br />- Le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs ;<br />- Le signal de fin d’alerte, signal continu."
     },
     {
         "Numero": 39,
@@ -718,13 +718,13 @@ let API=
         "Numero": 40,
         "Type": "Extérieure",
         "Question": "Vérifiez le fonctionnement de l'éclairage de la plaque d’immatriculation à l'arrière.",
-        "Reponse": "En bon état, propre et lisible. VOIR VIDEO"
+        "Reponse": "En bon état, propre et lisible. Mettre en marche n'importe quel feu. Lumière au niveau de l'ouverture du coffre."
     },
     {
         "Numero": 41,
         "Type": "Sécurité routière",
         "Question": "Quels sont les deux autres documents obligatoires à présenter en cas de contrôle par les forces de l’ordre ?",
-        "Reponse": "- Le certificat d’immatriculation (Le terme « carte grise » est accepté) ;\n- Le permis de conduire."
+        "Reponse": "- Le certificat d’immatriculation (Le terme « carte grise » est accepté) ;<br />- Le permis de conduire."
     },
     {
         "Numero": 41,
@@ -736,13 +736,13 @@ let API=
         "Numero": 41,
         "Type": "Intérieure",
         "Question": "Vérifiez la présence de l’attestation d’assurance du véhicule et de sa vignette sur le pare-brise.",
-        "Reponse": "Dans la pochette dans le boîte à gants."
+        "Reponse": "Dans la pochette dans la boîte à gants."
     },
     {
         "Numero": 42,
         "Type": "Extérieure",
         "Question": "Indiquez où se situe la sécurité enfant sur l’une des portières a l’arrière du véhicule.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Ouvrir une des portières à l'arrière. Point rouge."
     },
     {
         "Numero": 42,
@@ -760,7 +760,7 @@ let API=
         "Numero": 43,
         "Type": "Intérieure",
         "Question": "Allumez le ou les feux de brouillard arrière et montrez le voyant correspondant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner au moins le bout d'un cran vers l'avant pour mettre en feu de position. Tourner l'anneau de deux crans vers l'avant. Voyant orange avec vagues barrées à droite."
     },
     {
         "Numero": 43,
@@ -777,7 +777,8 @@ let API=
     {
         "Numero": 44,
         "Type": "Extérieure",
-        "Question": "Avec l’assistance de l’accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de recul."
+        "Question": "Avec l’assistance de l’accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de recul.",
+        "Reponse": "Accompagnateur doit mettre la marche arrière. Feu à l'arrière de droite qui s'allume."
     },
     {
         "Numero": 44,
@@ -843,7 +844,7 @@ let API=
         "Numero": 47,
         "Type": "Sécurité routière",
         "Question": "Quelle est la différence entre un voyant de couleur orange et un de couleur rouge ?",
-        "Reponse": "- Rouge : une anomalie de fonctionnement ou un danger ;\n- Orange : un élément important."
+        "Reponse": "- Rouge : une anomalie de fonctionnement ou un danger ;<br />- Orange : un élément important."
     },
     {
         "Numero": 48,
@@ -867,7 +868,7 @@ let API=
         "Numero": 49,
         "Type": "Intérieure",
         "Question": "Montrez la commande de recyclage de l’air.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tablette à droite. Bouton en bas à gauche avec le symbole recycler en cercle."
     },
     {
         "Numero": 49,
@@ -885,7 +886,7 @@ let API=
         "Numero": 50,
         "Type": "Extérieure",
         "Question": "Montrez l’orifice de remplissage du produit lave-glace.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Ouvrir le capot. Montrer le bouchon bleu à gauche."
     },
     {
         "Numero": 50,
@@ -903,7 +904,7 @@ let API=
         "Numero": 51,
         "Type": "Intérieure",
         "Question": "Allumez les feux de route et montrez le voyant correspondant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner deux fois le bout. Tirer manette vers nous. Symbole avec traits droits à gauche."
     },
     {
         "Numero": 51,
@@ -933,7 +934,7 @@ let API=
         "Numero": 52,
         "Type": "Extérieure",
         "Question": "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Allumés en permanence simplement avec le contact ou le moteur en marche. A l'avant, les feux les plus en hauts."
     },
     {
         "Numero": 53,
@@ -957,7 +958,7 @@ let API=
         "Numero": 54,
         "Type": "Premiers secours",
         "Question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque?",
-        "Reponse": "- ALERTER : alerter immédiatement les secours ;\n- MASSER : pratiquer une réanimation cardio-pulmonaire ;\n- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
+        "Reponse": "- ALERTER : alerter immédiatement les secours ;<br />- MASSER : pratiquer une réanimation cardio-pulmonaire ;<br />- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
     },
     {
         "Numero": 54,
@@ -993,7 +994,7 @@ let API=
         "Numero": 56,
         "Type": "Premiers secours",
         "Question": "Citez les trois manières d’évaluer l’état de conscience d’une victime ?",
-        "Reponse": "- Lui poser des questions simples : “comment ça va?”, “vous m’entendez?” ;\n- Lui secouer doucement les épaules ;\n- Lui prendre la main en lui demandant d’exécuter un geste simple “serrez-moi la main”."
+        "Reponse": "- Lui poser des questions simples : “comment ça va?”, “vous m’entendez?” ;<br />- Lui secouer doucement les épaules ;<br />- Lui prendre la main en lui demandant d’exécuter un geste simple “serrez-moi la main”."
     },
     {
         "Numero": 56,
@@ -1023,7 +1024,7 @@ let API=
         "Numero": 57,
         "Type": "Intérieure",
         "Question": "Si le véhicule en est équipé, montrez la commande du limiteur de vitesse.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Sur le volant en bas à gauche. Marqué 'Limit'."
     },
     {
         "Numero": 58,
@@ -1047,7 +1048,7 @@ let API=
         "Numero": 59,
         "Type": "Intérieure",
         "Question": "Faites fonctionner l’essuie-glace arrière du véhicule.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à droite du volant. Tourner le bout une fois."
     },
     {
         "Numero": 59,
@@ -1125,7 +1126,7 @@ let API=
         "Numero": 63,
         "Type": "Intérieure",
         "Question": "Montrez sur le tableau de bord, le voyant indiquant une baisse de pression d’air des pneus.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tableau de bord, cadran des vitesses. Symbole pneu avec point d'exclamation."
     },
     {
         "Numero": 63,
@@ -1191,7 +1192,7 @@ let API=
         "Numero": 67,
         "Type": "Premiers secours",
         "Question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
-        "Reponse": "Il se compose de deux codes distincts :\n- le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs\n- le signal de fin d’alerte, signal continu"
+        "Reponse": "Il se compose de deux codes distincts :<br />- le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs<br />- le signal de fin d’alerte, signal continu"
     },
     {
         "Numero": 67,
@@ -1377,7 +1378,7 @@ let API=
         "Numero": 77,
         "Type": "Premiers secours",
         "Question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque?",
-        "Reponse": "- ALERTER : alerter immédiatement les secours ;\n- MASSER : pratiquer une réanimation cardio-pulmonaire ;\n- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
+        "Reponse": "- ALERTER : alerter immédiatement les secours ;<br />- MASSER : pratiquer une réanimation cardio-pulmonaire ;<br />- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
     },
     {
         "Numero": 77,
@@ -1389,7 +1390,7 @@ let API=
         "Numero": 78,
         "Type": "Sécurité routière",
         "Question": "Citez un cas d’utilisation d’un appel lumineux.",
-        "Reponse": "- Avertir de son approche\n- En cas de danger\n- A la place de l'avertisseur sonore"
+        "Reponse": "- Avertir de son approche<br />- En cas de danger<br />- A la place de l'avertisseur sonore"
     },
     {
         "Numero": 78,
@@ -1407,7 +1408,7 @@ let API=
         "Numero": 79,
         "Type": "Sécurité routière",
         "Question": "La position auto (désembuage automatique) peut être utilisée si le véhicule en est équipé. Citez deux éléments complémentaires permettant un désembuage efficace.",
-        "Reponse": "- La commande de vitesse de ventilation ;\n- la commande d’air chaud ;\n- la climatisation."
+        "Reponse": "- La commande de vitesse de ventilation ;<br />- la commande d’air chaud ;<br />- la climatisation."
     },
     {
         "Numero": 79,
@@ -1431,7 +1432,7 @@ let API=
         "Numero": 80,
         "Type": "Extérieure",
         "Question": "Montrez où doit s’effectuer le contrôle du niveau d’huile moteur.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Ouvrir le capot. Montrer le petit bouchon orange devant le gros bouchon noir."
     },
     {
         "Numero": 80,
@@ -1461,7 +1462,7 @@ let API=
         "Numero": 82,
         "Type": "Extérieure",
         "Question": "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner de deux crans vers l'avant."
     },
     {
         "Numero": 82,
@@ -1520,7 +1521,7 @@ let API=
     {
         "Numero": 85,
         "Type": "Sécurité routière",
-        "Question": "Quand les utilise-t-on ?",
+        "Question": "Quand les utilise-t-on (feux de détresse) ?",
         "Reponse": "En cas de panne, d’accident ou de ralentissement important."
     },
     {
@@ -1568,8 +1569,8 @@ let API=
     {
         "Numero": 88,
         "Type": "Extérieure",
-        "Question": "Indiquez où se situe la sécurité enfant sur l’une des portières a l’arrière du véhicule.",
-        "Reponse": "VOIR VIDEO"
+        "Question": "Indiquez où se situe la sécurité enfant sur l’une des portières à l’arrière du véhicule.",
+        "Reponse": "Ouvrir une des portières à l'arrière. Point rouge."
     },
     {
         "Numero": 88,
@@ -1587,7 +1588,7 @@ let API=
         "Numero": 89,
         "Type": "Premiers secours",
         "Question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
-        "Reponse": "Il se compose de deux codes distincts :\n\n- Le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs ;\n- Le signal de fin d’alerte, signal continu."
+        "Reponse": "Il se compose de deux codes distincts :<br /><br />- Le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs ;<br />- Le signal de fin d’alerte, signal continu."
     },
     {
         "Numero": 89,
@@ -1623,7 +1624,7 @@ let API=
         "Numero": 91,
         "Type": "Intérieure",
         "Question": "Allumez le ou les feux de brouillard arrière et montrez le voyant correspondant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner au moins le bout d'un cran vers l'avant pour mettre en feu de position. Tourner l'anneau de deux crans vers l'avant. Voyant orange avec vagues barrées à droite."
     },
     {
         "Numero": 91,
@@ -1653,13 +1654,13 @@ let API=
         "Numero": 92,
         "Type": "Extérieure",
         "Question": "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Allumés en permanence simplement avec le contact ou le moteur en marche. A l'avant, les feux les plus en hauts."
     },
     {
         "Numero": 93,
         "Type": "Intérieure",
         "Question": "Montrez la commande de recyclage de l’air.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tablette à droite. Bouton en bas à gauche avec le symbole recycler en cercle."
     },
     {
         "Numero": 93,
@@ -1677,7 +1678,7 @@ let API=
         "Numero": 94,
         "Type": "Premiers secours",
         "Question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque?",
-        "Reponse": "- ALERTER : alerter immédiatement les secours ;\n- MASSER : pratiquer une réanimation cardio-pulmonaire ;\n- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
+        "Reponse": "- ALERTER : alerter immédiatement les secours ;<br />- MASSER : pratiquer une réanimation cardio-pulmonaire ;<br />- DÉFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible."
     },
     {
         "Numero": 94,
@@ -1695,7 +1696,7 @@ let API=
         "Numero": 95,
         "Type": "Intérieure",
         "Question": "Allumez les feux de route et montrez le voyant correspondant.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à gauche du volant. Tourner deux fois le bout. Tirer manette vers nous. Symbole avec traits droits à gauche."
     },
     {
         "Numero": 95,
@@ -1713,7 +1714,7 @@ let API=
         "Numero": 96,
         "Type": "Premiers secours",
         "Question": "Citez les trois manières d’évaluer l’état de conscience d’une victime ?",
-        "Reponse": "- Lui poser des questions simples : “comment ça va?”, “vous m’entendez?” ;\n- Lui secouer doucement les épaules ;\n- Lui prendre la main en lui demandant d’exécuter un geste simple “serrez-moi la main”."
+        "Reponse": "- Lui poser des questions simples : “comment ça va?”, “vous m’entendez?” ;<br />- Lui secouer doucement les épaules ;<br />- Lui prendre la main en lui demandant d’exécuter un geste simple “serrez-moi la main”."
     },
     {
         "Numero": 96,
@@ -1731,7 +1732,7 @@ let API=
         "Numero": 97,
         "Type": "Intérieure",
         "Question": "Faites fonctionner l’essuie-glace arrière du véhicule.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Manette à droite du volant. Tourner le bout une fois."
     },
     {
         "Numero": 97,
@@ -1773,7 +1774,7 @@ let API=
         "Numero": 99,
         "Type": "Intérieure",
         "Question": "Montrez sur le tableau de bord, le voyant indiquant une baisse de pression d’air des pneus.",
-        "Reponse": "VOIR VIDEO"
+        "Reponse": "Tableau de bord, cadran des vitesses. Symbole pneu avec point d'exclamation."
     },
     {
         "Numero": 99,
